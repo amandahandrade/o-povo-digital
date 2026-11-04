@@ -25,10 +25,14 @@ Projeto de extensão do IFSul, com execução de setembro de 2026 a agosto de 20
 
 ## Situação atual
 
-- **Implementado e testado localmente:** Cantaloupe, URLs IIIF, Mirador, manifesto de estudo e navegação entre fotos de estudo
+- **Implementado e testado localmente:** Cantaloupe, URLs IIIF, Mirador, manifesto de estudo, navegação entre fotos de estudo e testes com TIFF
 - **Em andamento:** organização do repositório e documentação
-- **Planejado:** testes com TIFF e integração das transcrições em XML/TEI
+- **Planejado:** definição dos arquivos finais do site e integração das transcrições em XML/TEI
 - **Não iniciado:** ordem real das páginas e publicação em servidor
+
+## Documentação
+
+- [Devlog](docs/devlog/README.md)
 
 ## Preservação
 
