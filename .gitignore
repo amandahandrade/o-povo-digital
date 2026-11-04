@@ -1,0 +1,23 @@
+# Imagens e documentos históricos
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.tif
+*.TIF
+*.tiff
+*.TIFF
+*.heic
+*.HEIC
+*.heif
+*.HEIF
+
+# Servidor local e configuração
+cantaloupe-*/
+*.jar
+cantaloupe.properties
+
+# Registros e arquivos do sistema
+*.log
+.DS_Store
+Thumbs.db
