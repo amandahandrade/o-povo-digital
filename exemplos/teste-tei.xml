@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+    <!-- teiHeader: A ficha do documento: título, publicação e fonte -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>O Povo: teste de estudo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Exemplo de estudo; não é uma transcrição final.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Jornal O Povo, cabeçalho da fotografia de estudo IMG_0843.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <!-- facsimile: A imagem digital da página -->
+    <facsimile>
+        <surface xml:id="surface-1">
+            <graphic url="http://localhost:8182/iiif/3/IMG_0843.JPG/full/max/0/default.jpg" />
+        </surface>
+    </facsimile>
+
+    <!-- text: A transcrição -->
+    <text>
+        <body>
+            <div type="masthead" corresp="#surface-1">
+                <p>N. 6. <placeName>Piratini</placeName>, <date when="1838-09-19">Quarta Feira 19 de
+                    Setembro de 1838</date>. V. I.</p>
+                <head>O POVO.</head>
+                <p>JORNAL POLITICO, LITTERARIO, E MINISTERIAL DA REPUBLICA RIO-GRANDENSE.</p>
+                <p>
+                    <placeName>Piratini</placeName>, <orgName>Typographia Republicana Rio-Grandense</orgName>:
+                    Anno de <date when="1838">1838</date>. </p>
+            </div>
+        </body>
+    </text>
+</TEI>
