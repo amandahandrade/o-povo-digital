@@ -1,0 +1,324 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost:8000/manifesto.json",
+    "type": "Manifest",
+    "label": {
+        "pt-br": [
+            "O Povo - teste de estudo"
+        ]
+    },
+    "items": [
+        {
+            "id": "http://localhost:8000/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0682"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/1/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/1/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/1",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0682.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0682.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0683"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/2/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/2/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/2",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0683.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0683.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0692"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/3/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/3/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/3",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0692.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0692.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0693"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/4/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/4/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/4",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0693.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0693.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0842"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/5/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/5/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/5",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0842.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0842.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0843"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/6/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/6/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/6",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0843.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0843.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0852"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/7/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/7/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/7",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0852.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0852.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://localhost:8000/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "pt-br": [
+                    "IMG_0853"
+                ]
+            },
+            "width": 3024,
+            "height": 4032,
+            "items": [
+                {
+                    "id": "http://localhost:8000/canvas/8/pagina",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://localhost:8000/canvas/8/imagem",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://localhost:8000/canvas/8",
+                            "body": {
+                                "id": "http://localhost:8182/iiif/3/IMG_0853.JPG/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "service": [
+                                    {
+                                        "id": "http://localhost:8182/iiif/3/IMG_0853.JPG",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
