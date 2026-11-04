@@ -29,9 +29,9 @@ Projeto de extensão do IFSul, com execução de setembro de 2026 a agosto de 20
 - **Em andamento:** organização do repositório e documentação
 - **Planejado:** definição dos arquivos finais do site e integração das transcrições em XML/TEI
 - **Não iniciado:** ordem real das páginas e publicação em servidor
-
 ## Documentação
 
+- [Como rodar localmente](docs/como-rodar.md)
 - [Devlog](docs/devlog/README.md)
 
 ## Preservação
